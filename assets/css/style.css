@@ -1,5 +1,5 @@
 body{
-	background-color: #f4f4f4;
+	background-color: #EAEDED;
 	font-family: 'Arial', sans-serif;
 	margin: 0;
 	padding: 0;
@@ -67,7 +67,7 @@ color: white;
 }
 .pGrande{
 	font-size: 1.2em;
-	font-weight: bald;
+	font-weight: 600;
 }
 .blu{
 	color : #01a8be;
@@ -78,14 +78,14 @@ color: white;
 	display: inline-block;
 	width: 20%; 
 	margin: 1em 1.5em;
-	height: auto;
+	height: 350px;
 	background-color: white;
 	box-sizing: border-box;
 }
 
 .container2 img {
 	width: 100%;
-	height: 320px; 
+	height: 350px ; 
 	object-fit: cover; 
 	border-radius: 10%;
 	margin: 0 auto;
